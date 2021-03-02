@@ -1,2 +1,2 @@
 # HW1Sync
-ECE 612 HW1 of Hao XU
+Hao Xu's ECE 612 HW1 codes
